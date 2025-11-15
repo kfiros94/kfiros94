@@ -100,8 +100,8 @@ A full-stack food discovery web application featuring dishes from 20 countries, 
 - **CI/CD**: Jenkins declarative pipelines with GitOps integration
 - **Deployment**: ArgoCD for automated deployments
 - **Monitoring**: Prometheus & Grafana for metrics
-- **Logging**: ELK Stack (Elasticsearch, Fluentd, Kibana)
-- **Cloud**: AWS (VPC, EC2, EKS, ECR, IAM)
+- **Logging**: EFK Stack (Elasticsearch, Fluentd, Kibana)
+- **Cloud**: AWS (VPC, EC2, EKS, ECR, IAM) and more...
 
 ---
 
